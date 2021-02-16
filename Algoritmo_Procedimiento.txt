@@ -1,0 +1,22 @@
+1. Calcular recargo por edad del asegurado
+ Si es menor de edad no realiza calculo
+ Si tiene de 18 a 24 años multiplicar 2000*0.1
+ Si tiene de 25 a 49 años multiplicar 2000*0.2
+ Si tiene 50 años o mas multiplicar 2000*0.3
+2. Almacenar el calculo segun la edad del asegurado
+
+3. Calcular recargo por edad conyugue
+ Si no tiene no realiza calculo
+ Si su pareja tiene 18 a 24 años multiplicar 2000*0.1
+ Si su pareja tiene 25 a 49 años multiplicar 2000*0.2
+ Si su pareja tiene 50 años o mas multiplicar 2000*0.3
+4. Almacenar el calculo segun la edad del conyugue
+
+5.Calcular recargo por cantidad de hijos
+ Si no tiene hijos no realiza calculo
+ Si tiene hijos multiplicar la cantidad de hijos 0.2 * 2000
+6. Almacenar el calculo segun la cantidad de hijos
+
+7. Sumar los recargos almacenados
+8. Sumar 2000 más el total de recargos almacenados.
+9. Fin

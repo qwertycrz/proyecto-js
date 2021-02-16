@@ -1,0 +1,6 @@
+
+La empresa de seguros TK-U, necesita automatizar el proceso de elaboración de cotizaciones a sus
+clientes, con el fin de mejorar la calidad del servicio, optimizando los tiempos de elaboración de una 
+cotización y de esta manera, aumentar la productividad, debido a que tardan aproximadamente 10 
+minutos para realizar una cotización. Al ser un proceso manual, tienen una mayor tendencia
+a equivocarse al momento de calcular los recargos necesarios para la cotización.
